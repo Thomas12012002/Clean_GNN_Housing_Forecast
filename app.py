@@ -114,6 +114,3 @@ with col2:
 
     st.write("### Optimal Subsets")
     st.write(optimal_subsets)
-
-else:
-    st.write("Please upload a dataset to proceed.")
